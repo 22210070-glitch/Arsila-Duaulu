@@ -1,0 +1,11 @@
+K-MEANS (1D log(RPBULAT)) — AUTO-TUNE + KMEANS++ + HUNGARIAN
+Upload ID       : 32
+Input GeoJSON   : uploads/shapefiles/1776505442_silanewshp/result.geojson
+Output GeoJSON  : uploads/shapefiles/1776505442_silanewshp/result_clustered.geojson
+Best K          : 5
+Total features  : 40
+Correct mapped  : 33
+Accuracy        : 82.5 %
+Mapping (cluster -> JENIS_ZONA):
+  cluster 1 => 2
+  cluster 4 => 1
